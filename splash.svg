@@ -9,8 +9,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    version="1.1"
-   width="2527.9067"
-   height="10798.109"
+   preserveAspectRatio="xMinYMin meet"
+   viewBox="0 0 2527.9067 3000"
    id="svg2">
   <defs
      id="defs4" />
@@ -29,8 +29,9 @@
   <g
      transform="translate(-226.86342,2701.1963)"
      id="layer1">
+    <!-- This is stupidly wide so we don't get a white stripe down the right. -->
     <rect
-       width="2527.9067"
+       width="12527.9067"
        height="10798.109"
        x="226.86342"
        y="-2701.1963"
